@@ -1,0 +1,1 @@
+# grup34_ai_veri_bilimi
