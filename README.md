@@ -102,7 +102,15 @@ Bu dağılım sayesinde, projenin aşamalı gelişimi hem sürdürülebilir hem 
 • **Daily Scrum**  : Toplantılar Google Meet üzerinden gerçekleştirilmiştir. Sürekli iletişim için WhatsApp grubu aktif olarak kullanılmıştır.
 
 • **Sprint Board Update**  
-Sprint panosu Miro üzerinden oluşturulmuştur. Görevler Trello'da “To Do / In Progress / Done” şeklinde kategorilendirilmiş ve sorumlular belirlenmiştir.
+Sprint panosu Trello üzerinden oluşturulmuştur. Görevler “To Do / In Progress / Done” şeklinde kategorilendirilmiş ve sorumlular belirlenmiştir.
+
+
+![Ekran görüntüsü 2025-07-06 141004](https://github.com/user-attachments/assets/91232c7d-0892-4dc5-ae4b-1ef3a727d90a)
+
+
+
+![Ekran görüntüsü 2025-07-06 141233](https://github.com/user-attachments/assets/d5aacc91-d917-40f7-88a5-0cf70cd4ebd0)
+
 
 
 • **Sprint Review**  
