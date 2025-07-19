@@ -120,4 +120,51 @@ Scorio’nun temel yönleri, kullanıcı ihtiyaçları ve çözüm stratejisi ba
 • **Sprint Retrospective**  
 Takım içi iletişim ve görev paylaşımı güçlüydü. Ürün fikrine olan inanç ve sahiplenme motivasyonu yükseltti. Kullanıcı analizi başarılıydı ve doğru hedef kitlenin tespiti sağlandı. Zaman planlaması ve dokümantasyon disiplini noktasında bazı iyileştirmeler yapılması gerektiği belirlendi. Development ekibinin iletişiminin güçlenmesi adına ek toplantılar alınması kararlaştırıldı.
 
-# Sprint 2
+# 🚀 Sprint 2 (7 Temmuz – 20 Temmuz)
+Amaç: Temel arayüz (UI) tasarımını oluşturmak, rubrik yükleme özelliğini eklemek ve GPT (LLM) entegrasyonu ile ilk değerlendirme akışını çalışır hâle getirmek
+
+• Sprint 2 Notları
+Streamlit tabanlı temel kullanıcı arayüzü oluşturuldu. Öğretmenlerin rubrik yükleyebilmesi için JSON/form tabanlı giriş sistemi eklendi. Öğrenci yazısı girişi için metin kutusu ve dosya yükleme özelliği hazırlandı. GPT-4 API entegrasyonu yapılarak rubrik kriterlerine göre ilk otomatik puanlama ve açıklama testi başarıyla çalıştırıldı. Değerlendirme sonuçlarını görsel ve metinsel olarak arayüzde gösterme işlevi tamamlandı.
+
+• Sprint içinde tamamlanması tahmin edilen puan
+32 SP
+
+• Puan tamamlama mantığı
+Sprint 2, projenin teknik geliştirme sürecine geçiş sprintidir. UI geliştirme (5 SP), rubrik yükleme (5 SP), yazı girişi (4 SP), GPT API bağlantısı (3 SP), kriter bazlı değerlendirme (7 SP), sonuç görselleştirme (5 SP) ve geri bildirim çıktısı kopyalama (3 SP) gibi toplamda 32 SP’lik görev planlanmıştır.
+
+• Daily Scrum
+Google Meet üzerinden günlük toplantılar düzenlendi. WhatsApp üzerinden anlık iletişim sağlandı. Geliştirici ekip her gün kodlama ilerlemesini paylaştı, tasarım ekibiyle eşzamanlı çalışıldı.
+
+• Sprint Board Update
+Trello panosunda görevler “UI Tasarımı”, “Rubrik Yükleme”, “LLM Entegrasyonu”, “Çıktı Görselleştirme” şeklinde kategorilendirildi. Tüm görevlerin %90’ı tamamlandı, yalnızca görsel iyileştirmeler ve ufak hataların giderilmesi Sprint 3’e devredildi.
+
+<img width="1919" height="831" alt="Ekran görüntüsü 2025-07-19 183939" src="https://github.com/user-attachments/assets/c344974a-c9f2-4d10-be58-689347f29c76" />
+
+
+<img width="1919" height="830" alt="Ekran görüntüsü 2025-07-19 183953" src="https://github.com/user-attachments/assets/2c4e5e0b-9a26-44b7-b11c-08412e81d6d2" />
+
+<img width="1919" height="821" alt="Ekran görüntüsü 2025-07-19 184115" src="https://github.com/user-attachments/assets/e65ddaba-da3e-490b-af83-a0043d678dec" />
+
+<img width="1919" height="828" alt="Ekran görüntüsü 2025-07-19 184132" src="https://github.com/user-attachments/assets/2959facc-dd97-43e2-ab90-d1569ad4f003" />
+
+
+• Sprint Review
+Temel Streamlit arayüzü oluşturuldu ve kullanıcı deneyimi açısından ilk testler yapıldı. Rubriklerin JSON formatında yüklenmesi başarıyla çalıştı. Öğrenci yazısı giriş akışı sorunsuz işledi. GPT-4 API ile entegrasyon sağlanarak ilk otomatik değerlendirme alındı. Sonuçlar kriter bazlı puan ve açıklamalar şeklinde arayüzde gösterildi. Kullanıcıdan alınan ilk geri bildirim olumlu oldu; sistemin pratikliği ve yapay zekâdan gelen açıklamaların anlaşılır olması öne çıktı.
+
+• Sprint Retrospective
+Takım teknik geliştirmede verimli çalıştı ve hedeflenen çıktılara ulaştı. API bağlantısında ilk günlerde hız ve doğruluk testlerinde bazı gecikmeler yaşandı, çözüm olarak cache sistemi ve prompt iyileştirmesi yapıldı. Arayüz tasarımında görsel öğeler Sprint 3’e bırakıldı. İletişim güçlüydü fakat bazı görevlerde önceliklendirme karıştı, bir sonraki sprintte görev öncelik listesi daha net belirlenecek.
+
+✅ Sprint 2 sonunda MVP’nin ilk çalışan versiyonu ortaya çıktı. Kullanıcı rubrik yükleyip öğrenci yazısını değerlendirebildi, GPT’den açıklamalı puan alındı. Sprint 3’te PDF çıktısı, çoklu değerlendirme ve görsel iyileştirmeler yapılacak.
+
+## Uygulama Ekran Görüntüleri
+
+![WhatsApp Image 2025-07-14 at 17 11 05](https://github.com/user-attachments/assets/1571389c-4330-4d35-880a-f800210fc1ed)
+
+![WhatsApp Image 2025-07-14 at 17 11 05 (1)](https://github.com/user-attachments/assets/f2665094-2850-4352-acd6-81f272d8d3be)
+
+![WhatsApp Image 2025-07-14 at 17 11 06](https://github.com/user-attachments/assets/1d1d21d0-222f-4966-9ad3-17e60fb77b18)
+
+![WhatsApp Image 2025-07-14 at 17 11 06 (1)](https://github.com/user-attachments/assets/62d86977-904f-4ef8-8008-9f434d8f8e7b)
+
+
+# Sprint 3
