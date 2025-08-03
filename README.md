@@ -167,4 +167,33 @@ Takım teknik geliştirmede verimli çalıştı ve hedeflenen çıktılara ulaş
 ![WhatsApp Image 2025-07-14 at 17 11 06 (1)](https://github.com/user-attachments/assets/62d86977-904f-4ef8-8008-9f434d8f8e7b)
 
 
-# Sprint 3
+# Sprint 3 (21 Temmuz - 3 Ağustos)
+**Amaç:** Ürünü sunulabilir, değerlendirilebilir ve kullanıcı dostu hâle getirmek; son teknik görevleri tamamlayarak projeyi finalize etmek
+• **Sprint 3 Notları:**
+Scorio’nun dışa dönük tüm çıktı materyalleri (demo videosu, jüri sunumu, görseller, simgeler, poster) bu sprintte oluşturuldu. GitHub deposu okunabilir hâle getirildi, yorumlar ve örnek veri setleriyle desteklendi. Projenin sürdürülebilirliği için planlanan ileri seviye modüller tasarlanarak backlog’a eklendi.
+• Sprint içinde tamamlanması tahmin edilen puan: 48 SP
+• Puan tamamlama mantığı: Bu sprint, en yüksek teknik zorlukları ve son teslimata yönelik yoğun işleri kapsadığı için 48 SP olarak planlandı. Uygulamanın dış dünyaya sunulması ve olgunlaştırılması bu dönemde gerçekleştirildi.
+• **Daily Scrum:**
+Google Meet üzerinden günlük toplantılar yapıldı. Görev dağılımı ve takibinde WhatsApp grubundan aktif iletişim sağlandı.
+• **Sprint Board Update:**
+Sprint panosu Trello üzerinden güncellendi. “To Do / In Progress / Done” sütunları aracılığıyla tüm görevler net şekilde izlenip tamamlandı. Eksik kalan özellikler backlog’da yer aldı.
+
+<img width="1895" height="808" alt="Ekran görüntüsü 2025-08-03 152737" src="https://github.com/user-attachments/assets/8809483b-bdd0-4daa-a1f4-342f94aa094c" />
+
+<img width="1919" height="869" alt="Ekran görüntüsü 2025-08-03 152751" src="https://github.com/user-attachments/assets/b40876a4-3015-4474-85f9-eadb0c6b6c0f" />
+
+<img width="1919" height="870" alt="Ekran görüntüsü 2025-08-03 152830" src="https://github.com/user-attachments/assets/50e94fe6-2987-4d80-a16a-b31152c9deed" />
+
+<img width="1919" height="823" alt="Ekran görüntüsü 2025-08-03 152850" src="https://github.com/user-attachments/assets/754dff47-c03b-436e-92a3-d6d70d271bbf" />
+
+• **Sprint Review:**
+Scorio’nun tanıtım materyalleri başarıyla hazırlandı ve paylaşılmaya uygun hâle getirildi. GitHub deposu temizlenip geliştirici dostu hâle getirildi. Yapay zekâ ve değerlendirme motoru sağlam şekilde entegre edildi. Ancak teknik yoğunluk nedeniyle bazı özellikler ileriye bırakıldı.
+• **Sprint Retrospective:**
+Teslim odaklı çalışma motivasyonu yüksekti. Görsel materyallerin kalitesi ve teknik dokümantasyon başarılıydı. Takım içi iş birliği sürerken zaman yönetiminde iyileşme gözlemlendi. Tamamlanamayan bazı gelişmiş özellikler için ek süre planlanması önerildi.
+• **Gelecek Planları:**
+📝 PDF çıktısı alma özelliği (öğretmen geri bildirimi dışa aktarımı)
+💡 Yapay zekâ destekli rubrik önerme (GPT üzerinden)
+📚 Aynı rubrikle çoklu öğrenci değerlendirme modu
+📈 Öğrenciye özel geri bildirim geçmişi oluşturma
+
+
